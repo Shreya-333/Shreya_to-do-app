@@ -10,8 +10,8 @@ It allows you to add tasks with timestamps, delete them, and shows your task lis
 - Pretty, minimal layout with custom colors 🎨
 - Personalized title and emojis 😄
 
-## 📸 Screenshot
-![Screenshot](Screenshot(41).png)
+## 📸 Screenshot of the output has been added
+
 
 ## 🚀 Getting Started
 1. Clone/download the repository
